@@ -5,9 +5,10 @@ using System.Xml.Serialization;
 
 namespace MamaChecker
 {
-    public class MamaSerializer
+    public  class MamaSerializer
     {
-        Stream Serialize<T>(T[] items)
+       
+        public Stream Serialize<T>(T[] items)
         {
             XmlSerializer serializer = new XmlSerializer(typeof(T[]));
 

@@ -1,0 +1,15 @@
+/Users/noamari/Desktop/mamas2/MamaChecker/MamaChecker/MamaChecker/bin/Debug/net9.0/MamaChecker
+/Users/noamari/Desktop/mamas2/MamaChecker/MamaChecker/MamaChecker/bin/Debug/net9.0/MamaChecker.deps.json
+/Users/noamari/Desktop/mamas2/MamaChecker/MamaChecker/MamaChecker/bin/Debug/net9.0/MamaChecker.runtimeconfig.json
+/Users/noamari/Desktop/mamas2/MamaChecker/MamaChecker/MamaChecker/bin/Debug/net9.0/MamaChecker.dll
+/Users/noamari/Desktop/mamas2/MamaChecker/MamaChecker/MamaChecker/bin/Debug/net9.0/MamaChecker.pdb
+/Users/noamari/Desktop/mamas2/MamaChecker/MamaChecker/MamaChecker/obj/Debug/net9.0/MamaChecker.GeneratedMSBuildEditorConfig.editorconfig
+/Users/noamari/Desktop/mamas2/MamaChecker/MamaChecker/MamaChecker/obj/Debug/net9.0/MamaChecker.AssemblyInfoInputs.cache
+/Users/noamari/Desktop/mamas2/MamaChecker/MamaChecker/MamaChecker/obj/Debug/net9.0/MamaChecker.AssemblyInfo.cs
+/Users/noamari/Desktop/mamas2/MamaChecker/MamaChecker/MamaChecker/obj/Debug/net9.0/MamaChecker.csproj.CoreCompileInputs.cache
+/Users/noamari/Desktop/mamas2/MamaChecker/MamaChecker/MamaChecker/obj/Debug/net9.0/MamaChecker.sourcelink.json
+/Users/noamari/Desktop/mamas2/MamaChecker/MamaChecker/MamaChecker/obj/Debug/net9.0/MamaChecker.dll
+/Users/noamari/Desktop/mamas2/MamaChecker/MamaChecker/MamaChecker/obj/Debug/net9.0/refint/MamaChecker.dll
+/Users/noamari/Desktop/mamas2/MamaChecker/MamaChecker/MamaChecker/obj/Debug/net9.0/MamaChecker.pdb
+/Users/noamari/Desktop/mamas2/MamaChecker/MamaChecker/MamaChecker/obj/Debug/net9.0/MamaChecker.genruntimeconfig.cache
+/Users/noamari/Desktop/mamas2/MamaChecker/MamaChecker/MamaChecker/obj/Debug/net9.0/ref/MamaChecker.dll
